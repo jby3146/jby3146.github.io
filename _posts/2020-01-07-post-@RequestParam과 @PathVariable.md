@@ -8,7 +8,6 @@ tags:
 last_modified_at: 
 ---
 
-## @RequestParam과 @PathVariable ##
 
 `
     @RequestParam

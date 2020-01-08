@@ -9,7 +9,6 @@ tags:
 last_modified_at: 
 ---
 
-## REST API 구현 ##
 `
     REST API 란 ?
 `
