@@ -76,7 +76,7 @@ ga_domain: huangxuan.me
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "안녕하세요<br>주니어 개발자 조병용입니다."
-sidebar-avatar: /img/avatar-hux-ny.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/avatar-side.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
@@ -104,6 +104,6 @@ friends: [
     #     href: "http://su.gallery/"
     # },{
         title: "동식이",
-        href: "dongsik93.github.io""
+        href: "dongsik93.github.io"
     }
 ]
