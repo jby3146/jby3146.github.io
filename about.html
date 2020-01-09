@@ -5,11 +5,6 @@ description: "조금만 더"
 header-img: "img/about-bg.jpg"
 multilingual: true
 ---
-<!-- Chinese Version -->
-<div class="zh post-container">
-    {% capture about_zh %}{% include about/en.md %}{% endcapture %}
-    {{ about_zh | markdownify }}
-</div>
 
 <!-- English Version -->
 <div class="en post-container">
@@ -28,13 +23,7 @@ multilingual: true
 <!-- disqus 评论框 end -->
 
 <!-- disqus 公共JS代码 start (一个网页只需插入一次) -->
-<script src="https://utteranc.es/client.js"
-        repo="jby3146/blog-comment"
-        issue-term="url"
-        theme="github-light"
-        crossorigin="anonymous"
-        async>
-</script>
+<
 
 
 <script type="text/javascript">
@@ -51,3 +40,10 @@ multilingual: true
 </script>
 <!-- disqus 公共JS代码 end -->
 {% endif %}
+<script src="https://utteranc.es/client.js"
+        repo="jby3146/blog-comment"
+        issue-term="url"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>
