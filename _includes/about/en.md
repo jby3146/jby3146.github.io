@@ -1,12 +1,9 @@
-> 여기에 한줄 소개?
 
-여기에는 내소개
+안녕하세요
 
 ##### My Programming Languages Spectrum
 
-프로그래밍 스펙트럼  ? ? ?
 
-> __Left-right__ is how much I prefer it.  __Top-down__ is how much I know it. __Versions__ are lower bounds.
 
 
 |     | 💔️            | ❤️❤️ ️                 | ❤️❤️❤️ ️          | ❤️❤️❤️❤️ ️            |
