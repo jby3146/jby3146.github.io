@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "REST API 구현"
+title: "Spring과 anguler로 REST API 구현"
 categories:
   - Post
 tags:
