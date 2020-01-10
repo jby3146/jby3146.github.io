@@ -100,10 +100,27 @@ page-mathjax: false
 # Friends
 friends: [
     {
-    #     title: "Su",
-    #     href: "http://su.gallery/"
-    # },{
         title: "동식이",
         href: "dongsik93.github.io"
-    }
+    },
+    {
+        title: "강은주",
+        href: "https://eunju-kang.github.io/"
+    },
+    {
+        title: "김준영",
+        href: "https://github.com/kjywow94/"
+    },
+    {
+        title: "김혜빈",
+        href: "https://kimhyebin.github.io/"
+    },
+    {
+        title: "정태준",
+        href: "https://TaeJuneJoung.github.io"
+    },
+    {
+        title: "조신성",
+        href: "https://tlstjd436.blog.me/"
+    },
 ]
